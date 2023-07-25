@@ -1,0 +1,250 @@
+
+enemy_1256_lyacpa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body_I
+  rotate: true
+  xy: 654, 646
+  size: 236, 220
+  orig: 236, 220
+  offset: 0, 0
+  index: -1
+F_Body_II
+  rotate: false
+  xy: 675, 86
+  size: 156, 196
+  orig: 156, 196
+  offset: 0, 0
+  index: -1
+F_Body_III
+  rotate: false
+  xy: 2, 655
+  size: 364, 368
+  orig: 364, 368
+  offset: 0, 0
+  index: -1
+F_Cannon
+  rotate: 180
+  xy: 2, 496
+  size: 658, 160
+  orig: 664, 160
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: true
+  xy: 368, 652
+  size: 316, 284
+  orig: 316, 284
+  offset: 0, 0
+  index: -1
+F_Head_II
+  rotate: 270
+  xy: 900, 345
+  size: 102, 112
+  orig: 104, 112
+  offset: 1, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 661, 504
+  size: 352, 140
+  orig: 352, 140
+  offset: 0, 0
+  index: -1
+F_L_Body
+  rotate: false
+  xy: 782, 3
+  size: 224, 96
+  orig: 224, 96
+  offset: 0, 0
+  index: -1
+F_L_Claf_I
+  rotate: true
+  xy: 875, 623
+  size: 228, 121
+  orig: 228, 124
+  offset: 0, 1
+  index: -1
+F_L_Claf_II
+  rotate: false
+  xy: 2, 159
+  size: 212, 168
+  orig: 212, 168
+  offset: 0, 0
+  index: -1
+F_L_Claf_III
+  rotate: false
+  xy: 358, 978
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 654, 910
+  size: 268, 112
+  orig: 268, 112
+  offset: 0, 0
+  index: -1
+F_L_Froearm_I
+  rotate: true
+  xy: 462, 6
+  size: 124, 228
+  orig: 124, 228
+  offset: 0, 0
+  index: -1
+F_L_Froearm_II
+  rotate: false
+  xy: 490, 363
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1
+F_L_Froearm_III
+  rotate: false
+  xy: 314, 652
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+F_L_Froearm_IV
+  rotate: false
+  xy: 900, 848
+  size: 88, 167
+  orig: 88, 176
+  offset: 0, 3
+  index: -1
+F_L_Froearm_V
+  rotate: true
+  xy: 461, 152
+  size: 168, 212
+  orig: 168, 212
+  offset: 0, 0
+  index: -1
+F_L_Leg_I
+  rotate: false
+  xy: 857, 138
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+F_L_Leg_II
+  rotate: true
+  xy: 252, 295
+  size: 176, 236
+  orig: 176, 236
+  offset: 0, 0
+  index: -1
+F_R_Arm_II
+  rotate: true
+  xy: 602, 284
+  size: 220, 252
+  orig: 220, 252
+  offset: 0, 0
+  index: -1
+F_R_Body
+  rotate: false
+  xy: 814, 407
+  size: 160, 96
+  orig: 160, 96
+  offset: 0, 0
+  index: -1
+F_R_Claf_II
+  rotate: false
+  xy: 216, 121
+  size: 204, 172
+  orig: 204, 172
+  offset: 0, 0
+  index: -1
+F_R_Claf_III
+  rotate: false
+  xy: 472, 978
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 204, 7
+  size: 256, 112
+  orig: 256, 112
+  offset: 0, 0
+  index: -1
+F_R_Leg_I
+  rotate: true
+  xy: 2, 5
+  size: 152, 200
+  orig: 152, 200
+  offset: 0, 0
+  index: -1
+F_R_Leg_II
+  rotate: true
+  xy: 2, 329
+  size: 172, 248
+  orig: 172, 248
+  offset: 0, 0
+  index: -1
+
+enemy_1256_lyacpa2.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_L_Arm_I
+  rotate: true
+  xy: 2, 230
+  size: 154, 168
+  orig: 156, 168
+  offset: 1, 0
+  index: -1
+F_L_Arm_II
+  rotate: false
+  xy: 2, 385
+  size: 174, 152
+  orig: 176, 152
+  offset: 1, 0
+  index: -1
+F_L_Arm_III
+  rotate: false
+  xy: 172, 280
+  size: 92, 150
+  orig: 96, 152
+  offset: 0, 2
+  index: -1
+F_L_Hand
+  rotate: true
+  xy: 2, 539
+  size: 156, 180
+  orig: 156, 180
+  offset: 0, 0
+  index: -1
+F_R_Claf_I
+  rotate: true
+  xy: 2, 3
+  size: 224, 127
+  orig: 224, 128
+  offset: 0, 1
+  index: -1
+F_R_Froearm
+  rotate: false
+  xy: 2, 697
+  size: 180, 232
+  orig: 180, 232
+  offset: 0, 0
+  index: -1
+F_R_Froearm_II
+  rotate: false
+  xy: 146, 693
+  size: 124, 236
+  orig: 124, 236
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: true
+  xy: 126, 3
+  size: 200, 167
+  orig: 200, 168
+  offset: 0, 0
+  index: -1

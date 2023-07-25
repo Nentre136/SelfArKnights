@@ -1,0 +1,181 @@
+
+enemy_1002_nsabr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag_A
+  rotate: false
+  xy: 172, 445
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Bag_B
+  rotate: false
+  xy: 651, 534
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+Bag_C
+  rotate: false
+  xy: 591, 468
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 248, 279
+  size: 225, 252
+  orig: 240, 268
+  offset: 0, 0
+  index: -1
+Hood_A
+  rotate: true
+  xy: 421, 455
+  size: 276, 312
+  orig: 276, 312
+  offset: 0, 0
+  index: -1
+Hood_B
+  rotate: 270
+  xy: 502, 234
+  size: 219, 276
+  orig: 264, 276
+  offset: 45, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 756, 3
+  size: 102, 124
+  orig: 108, 124
+  offset: 0, 0
+  index: -1
+L_Calf
+  rotate: false
+  xy: 2, 277
+  size: 168, 224
+  orig: 172, 228
+  offset: 4, 0
+  index: -1
+L_Fingers
+  rotate: true
+  xy: 128, 21
+  size: 105, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+L_Foot
+  rotate: false
+  xy: 235, 136
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1
+L_Forearm
+  rotate: false
+  xy: 2, 18
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+L_Hand
+  rotate: false
+  xy: 626, 137
+  size: 152, 128
+  orig: 152, 128
+  offset: 0, 0
+  index: -1
+L_Kneecap
+  rotate: false
+  xy: 476, 9
+  size: 103, 94
+  orig: 108, 100
+  offset: 5, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 234, 18
+  size: 116, 136
+  orig: 128, 140
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 626, 11
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+R_Calf
+  rotate: true
+  xy: 780, 241
+  size: 176, 196
+  orig: 176, 208
+  offset: 0, 8
+  index: -1
+R_Foot
+  rotate: 180
+  xy: 476, 105
+  size: 148, 140
+  orig: 148, 156
+  offset: 0, 0
+  index: -1
+R_Forearm
+  rotate: false
+  xy: 906, 103
+  size: 97, 136
+  orig: 100, 136
+  offset: 3, 0
+  index: -1
+R_Hand
+  rotate: false
+  xy: 780, 107
+  size: 124, 132
+  orig: 124, 136
+  offset: 0, 0
+  index: -1
+R_Kneecap
+  rotate: false
+  xy: 882, 5
+  size: 100, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 391, 34
+  size: 83, 156
+  orig: 88, 160
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: 270
+  xy: 907, 486
+  size: 246, 107
+  orig: 260, 132
+  offset: 14, 25
+  index: -1
+Vest
+  rotate: true
+  xy: 49, 129
+  size: 181, 185
+  orig: 204, 192
+  offset: 0, 7
+  index: -1
+Waist
+  rotate: 180
+  xy: 697, 419
+  size: 240, 312
+  orig: 240, 312
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 503
+  size: 417, 228
+  orig: 424, 244
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,181 @@
+
+enemy_1028_mocock.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Armband
+  rotate: false
+  xy: 868, 74
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1
+C_Face
+  rotate: false
+  xy: 747, 427
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+C_Hat_A
+  rotate: false
+  xy: 244, 347
+  size: 284, 272
+  orig: 284, 272
+  offset: 0, 0
+  index: -1
+C_Hat_B
+  rotate: 270
+  xy: 522, 379
+  size: 240, 223
+  orig: 240, 244
+  offset: 0, 21
+  index: -1
+C_Hip
+  rotate: 180
+  xy: 698, 168
+  size: 256, 104
+  orig: 256, 104
+  offset: 0, 0
+  index: -1
+C_L_Arm
+  rotate: true
+  xy: 136, 105
+  size: 120, 144
+  orig: 120, 144
+  offset: 0, 0
+  index: -1
+C_L_Calf
+  rotate: true
+  xy: 472, 221
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+C_L_Coat
+  rotate: true
+  xy: 95, 227
+  size: 160, 244
+  orig: 160, 244
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: false
+  xy: 472, 33
+  size: 144, 64
+  orig: 144, 64
+  offset: 0, 0
+  index: -1
+C_L_Forearm
+  rotate: true
+  xy: 472, 99
+  size: 120, 132
+  orig: 120, 132
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 136, 11
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+C_L_Tail
+  rotate: false
+  xy: 439, 529
+  size: 18, 91
+  orig: 20, 92
+  offset: 2, 0
+  index: -1
+C_L_Thigh
+  rotate: true
+  xy: 314, 94
+  size: 145, 156
+  orig: 156, 156
+  offset: 11, 0
+  index: -1
+C_Lighter
+  rotate: false
+  xy: 2, 26
+  size: 120, 76
+  orig: 120, 76
+  offset: 0, 0
+  index: -1
+C_R_Arm
+  rotate: false
+  xy: 2, 245
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+C_R_BurningBottle
+  rotate: false
+  xy: 647, 81
+  size: 219, 92
+  orig: 228, 92
+  offset: 9, 0
+  index: -1
+C_R_Calf
+  rotate: true
+  xy: 718, 273
+  size: 152, 228
+  orig: 156, 228
+  offset: 0, 0
+  index: -1
+C_R_Coat
+  rotate: 270
+  xy: 619, 31
+  size: 72, 232
+  orig: 84, 232
+  offset: 12, 0
+  index: -1
+C_R_Finger
+  rotate: false
+  xy: 344, 4
+  size: 86, 88
+  orig: 92, 88
+  offset: 6, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 941, 467
+  size: 152, 76
+  orig: 160, 76
+  offset: 0, 0
+  index: -1
+C_R_Forearm
+  rotate: true
+  xy: 341, 245
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 250, 3
+  size: 92, 89
+  orig: 92, 96
+  offset: 0, 7
+  index: -1
+C_R_Tail
+  rotate: false
+  xy: 458, 521
+  size: 16, 99
+  orig: 24, 104
+  offset: 0, 1
+  index: -1
+C_R_Thigh
+  rotate: false
+  xy: 2, 104
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+C_Shirt
+  rotate: false
+  xy: 2, 363
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1

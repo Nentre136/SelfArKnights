@@ -1,0 +1,369 @@
+
+char_179_cgbird.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Chain
+  rotate: false
+  xy: 792, 124
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+C_Lamp
+  rotate: false
+  xy: 870, 96
+  size: 108, 228
+  orig: 108, 228
+  offset: 0, 0
+  index: -1
+C_Weapon
+  rotate: false
+  xy: 496, 187
+  size: 194, 835
+  orig: 224, 852
+  offset: 0, 0
+  index: -1
+F_Back_Hair
+  rotate: false
+  xy: 2, 486
+  size: 492, 536
+  orig: 492, 536
+  offset: 0, 0
+  index: -1
+F_Bird_L_Wing_1
+  rotate: false
+  xy: 692, 590
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+F_Bird_R_Wing_1
+  rotate: false
+  xy: 692, 380
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+F_Bird_R_Wing_2
+  rotate: true
+  xy: 930, 792
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+F_Cap
+  rotate: false
+  xy: 2, 324
+  size: 316, 160
+  orig: 316, 160
+  offset: 0, 0
+  index: -1
+F_Collar
+  rotate: true
+  xy: 930, 846
+  size: 176, 64
+  orig: 176, 64
+  offset: 0, 0
+  index: -1
+F_Dress
+  rotate: 270
+  xy: 2, 489
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+F_Dress_Back
+  rotate: true
+  xy: 742, 512
+  size: 272, 248
+  orig: 272, 248
+  offset: 0, 0
+  index: -1
+F_Eye_2
+  rotate: false
+  xy: 484, 3
+  size: 153, 52
+  orig: 156, 52
+  offset: 3, 0
+  index: -1
+F_Eye_3
+  rotate: false
+  xy: 2, 298
+  size: 148, 24
+  orig: 148, 24
+  offset: 0, 0
+  index: -1
+F_Eyebrow
+  rotate: false
+  xy: 152, 298
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+F_Front_Hair_B
+  rotate: false
+  xy: 346, 248
+  size: 136, 236
+  orig: 136, 236
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 692, 786
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+F_L_Belt_A
+  rotate: false
+  xy: 440, 486
+  size: 48, 116
+  orig: 48, 116
+  offset: 0, 0
+  index: -1
+F_L_Belt_B
+  rotate: false
+  xy: 2, 6
+  size: 124, 88
+  orig: 124, 88
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: true
+  xy: 149, 3
+  size: 124, 195
+  orig: 124, 204
+  offset: 0, 0
+  index: -1
+F_L_Coat
+  rotate: false
+  xy: 692, 656
+  size: 84, 129
+  orig: 84, 136
+  offset: 0, 7
+  index: -1
+F_L_Hair
+  rotate: 270
+  xy: 2, 96
+  size: 196, 504
+  orig: 196, 504
+  offset: 0, 0
+  index: -1
+F_L_Horn
+  rotate: true
+  xy: 870, 6
+  size: 88, 124
+  orig: 88, 124
+  offset: 0, 0
+  index: -1
+F_Mouth
+  rotate: false
+  xy: 2, 936
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+F_R_Belt_A
+  rotate: false
+  xy: 105, 486
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+F_R_Belt_B
+  rotate: true
+  xy: 2, 950
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: false
+  xy: 870, 327
+  size: 132, 183
+  orig: 140, 200
+  offset: 0, 0
+  index: -1
+F_R_Hair
+  rotate: 180
+  xy: 652, 59
+  size: 216, 508
+  orig: 216, 508
+  offset: 0, 0
+  index: -1
+F_R_Horn
+  rotate: false
+  xy: 508, 57
+  size: 132, 128
+  orig: 132, 128
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 346, 15
+  size: 92, 136
+  orig: 92, 148
+  offset: 0, 12
+  index: -1
+F_R_Ribbon
+  rotate: true
+  xy: 398, 946
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+
+char_179_cgbird2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Weapon_B
+  rotate: false
+  xy: 655, 142
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+F_Bird_Body
+  rotate: true
+  xy: 857, 16
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+F_Bird_L_Wing_2
+  rotate: false
+  xy: 574, 4
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 2, 90
+  size: 364, 316
+  orig: 364, 316
+  offset: 0, 0
+  index: -1
+F_Coat_Back
+  rotate: 180
+  xy: 566, 269
+  size: 176, 120
+  orig: 176, 120
+  offset: 0, 0
+  index: -1
+F_Eye
+  rotate: false
+  xy: 625, 78
+  size: 156, 61
+  orig: 156, 64
+  offset: 0, 3
+  index: -1
+F_Front_Hair_A
+  rotate: false
+  xy: 282, 96
+  size: 196, 152
+  orig: 196, 152
+  offset: 0, 0
+  index: -1
+F_Front_Hair_C
+  rotate: 180
+  xy: 783, 94
+  size: 72, 192
+  orig: 72, 192
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 2, 24
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+F_L_Dress
+  rotate: 180
+  xy: 509, 96
+  size: 144, 184
+  orig: 144, 184
+  offset: 0, 0
+  index: -1
+F_L_Fingers
+  rotate: false
+  xy: 104, 8
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 343, 30
+  size: 120, 64
+  orig: 120, 64
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 756, 4
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 480, 12
+  size: 92, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: false
+  xy: 2, 106
+  size: 100, 125
+  orig: 100, 136
+  offset: 0, 11
+  index: -1
+F_R_Arm
+  rotate: false
+  xy: 857, 102
+  size: 84, 96
+  orig: 84, 96
+  offset: 0, 0
+  index: -1
+F_R_Coat
+  rotate: 270
+  xy: 730, 262
+  size: 144, 127
+  orig: 144, 152
+  offset: 0, 25
+  index: -1
+F_R_Dress
+  rotate: 270
+  xy: 407, 226
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: false
+  xy: 225, 26
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: false
+  xy: 842, 200
+  size: 89, 108
+  orig: 96, 108
+  offset: 3, 0
+  index: -1
+F_R_Hand
+  rotate: false
+  xy: 162, 310
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1

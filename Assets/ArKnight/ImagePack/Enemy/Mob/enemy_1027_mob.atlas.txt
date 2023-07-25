@@ -1,0 +1,174 @@
+
+enemy_1027_mob.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Armband
+  rotate: false
+  xy: 547, 4
+  size: 120, 92
+  orig: 120, 92
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 520, 322
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+F_Hip
+  rotate: false
+  xy: 2, 183
+  size: 256, 104
+  orig: 256, 104
+  offset: 0, 0
+  index: -1
+F_Hood_B
+  rotate: false
+  xy: 278, 312
+  size: 240, 212
+  orig: 240, 212
+  offset: 0, 0
+  index: -1
+F_Hood_F
+  rotate: false
+  xy: 2, 277
+  size: 284, 272
+  orig: 284, 272
+  offset: 0, 0
+  index: -1
+F_L_Arm
+  rotate: true
+  xy: 819, 54
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+F_L_Calf
+  rotate: false
+  xy: 714, 261
+  size: 156, 228
+  orig: 156, 228
+  offset: 0, 0
+  index: -1
+F_L_Coat
+  rotate: false
+  xy: 825, 492
+  size: 72, 232
+  orig: 72, 232
+  offset: 0, 0
+  index: -1
+F_L_Finger
+  rotate: false
+  xy: 183, 465
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+F_L_Foot
+  rotate: false
+  xy: 547, 98
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+F_L_Forearm
+  rotate: false
+  xy: 445, 50
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+F_L_Hand
+  rotate: false
+  xy: 877, 436
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+F_L_Leg
+  rotate: true
+  xy: 2, 49
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+F_L_Tape
+  rotate: false
+  xy: 282, 290
+  size: 16, 100
+  orig: 16, 100
+  offset: 0, 0
+  index: -1
+F_R_Arm
+  rotate: true
+  xy: 140, 77
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+F_R_Calf
+  rotate: 270
+  xy: 728, 132
+  size: 156, 200
+  orig: 156, 200
+  offset: 0, 0
+  index: -1
+F_R_Coat
+  rotate: true
+  xy: 299, 169
+  size: 160, 244
+  orig: 160, 244
+  offset: 0, 0
+  index: -1
+F_R_Foot
+  rotate: true
+  xy: 872, 290
+  size: 144, 64
+  orig: 144, 64
+  offset: 0, 0
+  index: -1
+F_R_Forearm
+  rotate: true
+  xy: 282, 59
+  size: 116, 132
+  orig: 116, 132
+  offset: 0, 0
+  index: -1
+F_R_Hand
+  rotate: true
+  xy: 705, 42
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+F_R_Leg
+  rotate: true
+  xy: 545, 172
+  size: 148, 156
+  orig: 148, 156
+  offset: 0, 0
+  index: -1
+F_R_Tape
+  rotate: false
+  xy: 260, 244
+  size: 20, 96
+  orig: 20, 96
+  offset: 0, 0
+  index: -1
+F_Shirt
+  rotate: true
+  xy: 568, 491
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+F_Weapon
+  rotate: false
+  xy: 2, 551
+  size: 564, 180
+  orig: 564, 180
+  offset: 0, 0
+  index: -1
